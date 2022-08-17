@@ -55,7 +55,7 @@ explaining sql levels based on one meme:
 
 - Concepts
   - MERGE
-  - COUNT(*) vs COUNT(1)
+  - COUNT(*) vs COUNT(1): https://svenweller.wordpress.com/2016/10/11/otn-apprecition-day-the-otn-forum/
   - isolation levels
   - zigzag join
   - grouping sets, cube, rollup
@@ -111,9 +111,9 @@ explaining sql levels based on one meme:
 ## Level 7
 
 
-- dee and dum: *explanation needed*
+- dee and dum: https://blog.jooq.org/creating-tables-dum-and-dee-in-postgresql/
 - the Halloween problem: *explanation needed*
-- allballs: *explanation needed*
+- allballs: https://www.postgresql.org/message-id/24526.1106597936%40sss.pgh.pa.us
 - fsyncgate: *explanation needed*
 - Every SQL operator is actually a JOIN: *explanation needed*
 - SERIAL is non-transactional: *explanation needed*
