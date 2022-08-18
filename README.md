@@ -13,7 +13,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   - data types
   - foreign keys
   - indexes
-- SQL
+- SQL: Just go through https://mode.com/sql-tutorial/
   - SELECT/INSERT/UPDATE/DELETE
     - SELECT DISTINCT
   - ORDER BY
