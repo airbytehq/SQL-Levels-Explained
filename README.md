@@ -1,8 +1,10 @@
 # SQL-Levels-Explained
 
-explaining sql levels based on one meme:
+Explaining sql levels based on one meme:
 
 <img src="https://user-images.githubusercontent.com/6764957/185188888-e06ef45b-c749-4f19-b918-1d3530f4f634.png" height=300 />
+
+If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [check out Airbyte](https://www.theseattledataguy.com/what-is-airbyte-and-why-you-should-use-it/)!
 
 ## Level 0
 
@@ -13,6 +15,7 @@ explaining sql levels based on one meme:
   - indexes
 - SQL
   - SELECT/INSERT/UPDATE/DELETE
+    - SELECT DISTINCT
   - ORDER BY
   - GROUP BY
   - LIMIT/OFFSET
@@ -118,8 +121,3 @@ explaining sql levels based on one meme:
 - Every SQL operator is actually a JOIN: *explanation needed*
 - SERIAL is non-transactional: *explanation needed*
 - NULL (?): *explanation needed*
-
-
-
-
-
