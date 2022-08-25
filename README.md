@@ -115,7 +115,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
 
 
 - dee and dum: https://blog.jooq.org/creating-tables-dum-and-dee-in-postgresql/
-- the Halloween problem: *explanation needed*
+- the Halloween problem: https://en.wikipedia.org/wiki/Halloween_Problem
 - allballs: https://www.postgresql.org/message-id/24526.1106597936%40sss.pgh.pa.us
 - fsyncgate: *explanation needed*
 - Every SQL operator is actually a JOIN: *explanation needed*
