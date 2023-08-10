@@ -104,7 +104,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   - learned indexes: *explanation needed*
   - XTID exhaustion: *explanation needed*
   - Worst Case Optimal Join: *explanation needed*
-  - Volcano model: *explanation needed*
+  - Volcano model: Paper of paralelism on query optimization. https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf
 - Battle Scars
   - Vectorized doesn't mean SIMD: *explanation needed*
   - join ordering is NP hard: *explanation needed*
