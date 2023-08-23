@@ -50,8 +50,8 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   - recursive CTEs
   - LATERAL joins
 - Insights
-  - ORMs create bad queries: *explanation needed*
-  - optimizers don't work without table statistics: *explanation needed*
+  - ORMs create bad queries: https://stackoverflow.com/a/494853
+  - optimizers don't work without table statistics: https://www.brentozar.com/archive/2020/11/how-bad-statistics-cause-bad-sql-server-query-performance/
   - there are no non-nullable types: *explanation needed*
   
 ## Level 3
