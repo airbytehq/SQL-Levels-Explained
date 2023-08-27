@@ -103,7 +103,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   - database cracking: https://stratos.seas.harvard.edu/files/IKM_CIDR07.pdf
   - learned indexes: *explanation needed*
   - XTID exhaustion: *explanation needed*
-  - Worst Case Optimal Join: *explanation needed*
+  - Worst Case Optimal Join: https://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/
   - Volcano model: *explanation needed*
 - Battle Scars
   - Vectorized doesn't mean SIMD: *explanation needed*
