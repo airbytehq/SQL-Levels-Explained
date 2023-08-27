@@ -101,14 +101,14 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   
 - Concepts
   - database cracking: *explanation needed*
-  - learned indexes: *explanation needed*
+  - learned indexes: https://www.postgresql.org/message-id/CAFcOn28TpR4oydF1NdMEuKFVVRiRwAwG4dGunu2kVxHZw3ViEA%40mail.gmail.com
   - XTID exhaustion: *explanation needed*
   - Worst Case Optimal Join: *explanation needed*
   - Volcano model: *explanation needed*
 - Battle Scars
   - Vectorized doesn't mean SIMD: *explanation needed*
   - join ordering is NP hard: *explanation needed*
-  - NULLs are equal in DISTINCT but inequal in UNIQUE: *explanation needed*
+  - NULLs are equal in DISTINCT but inequal in UNIQUE: https://modern-sql.com/feature/is-distinct-from
 
 
 ## Level 7
@@ -117,7 +117,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
 - dee and dum: https://blog.jooq.org/creating-tables-dum-and-dee-in-postgresql/
 - the Halloween problem: https://en.wikipedia.org/wiki/Halloween_Problem
 - allballs: https://www.postgresql.org/message-id/24526.1106597936%40sss.pgh.pa.us
-- fsyncgate: *explanation needed*
+- fsyncgate: https://wiki.postgresql.org/wiki/Fsync_Errors
 - Every SQL operator is actually a JOIN: *explanation needed*
-- SERIAL is non-transactional: *explanation needed*
+- SERIAL is non-transactional: https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL
 - NULL (?): *explanation needed*
