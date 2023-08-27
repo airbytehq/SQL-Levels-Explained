@@ -101,7 +101,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   
 - Concepts
   - database cracking: *explanation needed*
-  - learned indexes: *explanation needed*
+  - learned indexes: https://www.postgresql.org/message-id/CAFcOn28TpR4oydF1NdMEuKFVVRiRwAwG4dGunu2kVxHZw3ViEA%40mail.gmail.com
   - XTID exhaustion: *explanation needed*
   - Worst Case Optimal Join: *explanation needed*
   - Volcano model: *explanation needed*
