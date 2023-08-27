@@ -107,7 +107,7 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
   - Volcano model: *explanation needed*
 - Battle Scars
   - Vectorized doesn't mean SIMD: *explanation needed*
-  - join ordering is NP hard: *explanation needed*
+  - join ordering is NP hard: https://www.cockroachlabs.com/blog/join-ordering-pt1/
   - NULLs are equal in DISTINCT but inequal in UNIQUE: *explanation needed*
 
 
