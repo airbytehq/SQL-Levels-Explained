@@ -119,5 +119,5 @@ If you're replicating SQL databases, whether MySQL, Postgres, or SQL Server, [ch
 - allballs: https://www.postgresql.org/message-id/24526.1106597936%40sss.pgh.pa.us
 - fsyncgate: https://wiki.postgresql.org/wiki/Fsync_Errors
 - Every SQL operator is actually a JOIN: *explanation needed*
-- SERIAL is non-transactional: *explanation needed*
+- SERIAL is non-transactional: https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL
 - NULL (?): *explanation needed*
